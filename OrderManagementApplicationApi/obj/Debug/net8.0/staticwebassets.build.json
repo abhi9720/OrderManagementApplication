@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jc39JsUSNYhW+iEiW1Tpjua5PTV5EuRQCY0jIX1lFr0=",
+  "Source": "OrderManagementApplicationApi",
+  "BasePath": "_content/OrderManagementApplicationApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
